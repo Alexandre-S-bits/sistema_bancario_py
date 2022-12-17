@@ -2,6 +2,7 @@
 
 Desafio proposto pela DIO na formação Python
 
+## Versão 1
 ## Funções do desafio
 - Saque:
   - Limite de 3 saques diarios 
@@ -17,6 +18,18 @@ Desafio proposto pela DIO na formação Python
   - Antes o saldo sempre iniciava com o valor em uma variavel
 - Verificação da quantidade de saques realizados por dia pela leitura do arquivo de histórico
   - Antes a quantidade de saques diarios era armazenado em uma variavel que não verificava a quantidade em diferentes dias
+
+
+## Versão 2
+## Funções do desafio
+- Função de Cadastro de Clientes:
+- Função de Criação de Contas
+
+## Funções adicionadas
+- Arquivo com histórico das operações por cliente
+- Arquivo com todos cadastrados de clientes e contas 
+- Listahem dos Cadastros
+
 
 ## Habilidades desenvolvidas
 - Python
