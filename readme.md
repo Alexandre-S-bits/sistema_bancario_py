@@ -28,7 +28,7 @@ Desafio proposto pela DIO na formação Python
 ## Funções adicionadas
 - Arquivo com histórico das operações por cliente
 - Arquivo com todos cadastrados de clientes e contas 
-- Listahem dos Cadastros
+- Listagem dos Cadastros
 
 
 ## Habilidades desenvolvidas
