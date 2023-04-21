@@ -1,6 +1,6 @@
 # Projeto Sistema Bancário
 
-Desafio proposto pela DIO na formação Python
+Desafio proposto na formação Python
 
 ## Versão 1
 ## Funções do desafio
